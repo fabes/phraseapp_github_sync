@@ -3,3 +3,4 @@ en:
   welcome_msg: Welcome to our testing area.
   page_desc: This is just a description for the page
   random_msg: Additional information for your translators
+  test_str_one: Costs per month is %{cost}
