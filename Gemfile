@@ -133,3 +133,5 @@ end
 group :production do
   gem 'redis-rails'
 end
+
+gem 'turbolinks', '~> 2.5', '>= 2.5.4'
