@@ -2,4 +2,5 @@
 es:
   page_desc: Esta es solo una descripción de la página
   random_msg: Información adicional para sus traductores
+  test_str_one: Los costos por mes son %{cost}
   welcome_msg: Bienvenido a nuestra área de prueba
