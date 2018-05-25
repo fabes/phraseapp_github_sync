@@ -1,5 +1,8 @@
 ---
 es:
+  errors:
+    validation:
+      incorrect_card_format: este formato de tarjeta es incorrecto
   page_desc: Esta es solo una descripción de la página
   random_msg: Información adicional para sus traductores
   test_str_one: Los costos por mes son %{cost}
