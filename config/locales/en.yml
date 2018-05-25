@@ -4,3 +4,6 @@ en:
   random_msg: Additional information for your translators
   test_str_one: Costs per month is %{cost}
   welcome_msg: Welcome to our testing area.
+  errors:
+    validation:
+      incorrect_card_format: xthis card format is incorrect
